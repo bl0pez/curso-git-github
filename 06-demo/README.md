@@ -21,3 +21,9 @@ git branch nombre-de-la-rama
 ```bash
 git checkout nombre-de-la-rama
 ```
+
+- Implementar la rama nueva en la rama master
+
+```bash
+git merge nombre-de-la-rama
+```
