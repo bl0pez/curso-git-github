@@ -16,6 +16,12 @@ git branch
 git branch nombre-de-la-rama
 ```
 
+- Crea una nueva rama y se cambia a ella
+
+```bash
+git checkout -b nombre-de-la-rama
+```
+
 - Cambiarse a una rama
 
 ```bash
